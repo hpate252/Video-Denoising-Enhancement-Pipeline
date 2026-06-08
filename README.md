@@ -12,12 +12,11 @@ This project implements a video denoising and enhancement pipeline using PyTorch
 - Inference latency profiling
 - Edge deployment analysis
 
+Output:
+output:
+<img width="1595" height="313" alt="image" src="https://github.com/user-attachments/assets/17256654-0c77-4e7a-b83b-91682a884054" />
+
 ## Run
 
 ```bash
 python main.py
-
-
-
-output:
-<img width="1595" height="313" alt="image" src="https://github.com/user-attachments/assets/17256654-0c77-4e7a-b83b-91682a884054" />
